@@ -1,0 +1,38 @@
+*{
+    background-color: aquamarine;
+   background-image: url(https://64.media.tumblr.com/578d2dd48a0a53e54e7e05de6043155c/tumblr_nrlr6tulGV1r2geqjo1_540.gifv);
+}
+h1{
+    margin-top: 0;
+    color: red;
+}
+
+p{
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+}
+.wrapper {
+    padding: 20px;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+
+.wrapper h3 {
+    text-transform: capitalize;
+}
+
+.wrapper form button {
+    margin: 10px 0;
+    cursor: pointer;
+    margin-left: 7%;
+    color: blue;
+    background-color: blue;
+}
+
+.wrapper ul button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
